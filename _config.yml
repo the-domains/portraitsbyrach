@@ -1,6 +1,6 @@
 name: portraitsbyrach
 favicon: null
-layout_spectrum: 0.9868354792706668
+layout_spectrum: 0.7528
 typography_spectrum: 0.3853387380950153
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#adadad'
   brandStrength: 0.5
   lightness: 0.125
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.5550570103805512
 purpose: []
